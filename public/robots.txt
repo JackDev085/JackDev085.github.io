@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Allow: /about
+Allow: /terms
+Allow: /privacy
+Sitemap: https://hooperland.vercel.app/sitemap.xml
